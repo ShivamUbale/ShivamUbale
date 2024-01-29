@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**ShivamUbale/ShivamUbale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm Shivam Ubale, a 22 year old developer based in India with a passion for building user-centric web experiences. Whether it's coding, design, or exploring new technologies, I'm always eager to take on challenges and learn something new.My journey in web-developing began 2 years ago, and since then, I've had the opportunity to work on various projects that have honed my skills and broadened my perspectives.  
+- 🔭 Currently, I am engaged in the development of projects with the aim of sharing them here in the near future.
 
-Here are some ideas to get you started:
+ ## 🌱 I’m Currently Learning
+I am currently diving deep into the world of programming with a focus on the following:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python Programming Language:** Exploring the versatility and power of Python for various applications.
+
+- **Flask Framework:** Building web applications with Flask to understand the fundamentals of web development.
+
+- **ReactJS and Redux:** Strengthening my skills in ReactJS and Redux to create dynamic and responsive user interfaces.
+- 
+
+## 📫 How to reach me:
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shivam-ubale-674267252/)
+- GitHub: [GitHub Profile](https://github.com/ShivamUbale)
+- Twitter: [Twitter Profile](https://twitter.com/ShivamUbale2)
+
+## Certifications
+- **Web Development Bootcamp**, Udemy, 2024
+
+
+## Fun Facts
+- **Anime Enthusiast:** I absolutely love anime! Some of my favorites include DBS, One Piece, and Jujutsu Kaisen. If you have any anime recommendations, feel free to share!
