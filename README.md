@@ -8,10 +8,8 @@ I am currently diving deep into the world of programming with a focus on the fol
 
 - **Python Programming Language:** Exploring the versatility and power of Python for various applications.
 
-- **Flask Framework:** Building web applications with Flask to understand the fundamentals of web development.
-
 - **ReactJS and Redux:** Strengthening my skills in ReactJS and Redux to create dynamic and responsive user interfaces.
-- 
+  
 
 ## 📫 How to reach me:
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shivam-ubale-674267252/)
@@ -23,4 +21,4 @@ I am currently diving deep into the world of programming with a focus on the fol
 
 
 ## Fun Facts
-- **Anime Enthusiast:** I absolutely love anime! Some of my favorites include DBS, One Piece, and Jujutsu Kaisen. If you have any anime recommendations, feel free to share!
+- **Anime Enthusiast:** I absolutely love anime! Some of my favorites include DBS, One Piece, and JJK. If you have any anime recommendations, feel free to share!
